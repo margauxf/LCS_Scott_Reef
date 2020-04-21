@@ -9,9 +9,9 @@ The observed drifter trajectories can be found at.
 
 <h2>Velocity data</h2>
 
-The numerical velocity fields from the SUNTANS model [[Rayson et al., 2019]](https://doi.org/10.1016/j.ocemod.2017.12.007) can be found on the following THREDDS servers:
-- The surface velocity fields can be accessed [here](http://transport.me.berkeley.edu/thredds/catalog/public/ScottReef/catalog.html?dataset=public/ScottReef/ScottReef3D_250m_201610_surface_uv_nodes_newgrid_trimmed.nc)
-- The non-divergent components of the above velocity fields can be accessed [here](http://transport.me.berkeley.edu/thredds/catalog/public/ScottReef/catalog.html?dataset=public/ScottReef/ScottReef_channel_nondivergent.nc)
+The numerical velocity fields from the SUNTANS model [[Rayson et al., 2019]](https://doi.org/10.1016/j.ocemod.2017.12.007) can be found on the THREDDS server hosted by the [Shadden Lab at Berkeley](https://shaddenlab.berkeley.edu/) :
+- The surface velocity fields can be accessed [here](http://transport.me.berkeley.edu/thredds/catalog/public/ScottReef/catalog.html?dataset=public/ScottReef/ScottReef3D_250m_201610_surface_uv_nodes_newgrid_trimmed.nc).
+- The non-divergent components of the above velocity fields can be accessed [here](http://transport.me.berkeley.edu/thredds/catalog/public/ScottReef/catalog.html?dataset=public/ScottReef/ScottReef_channel_nondivergent.nc).
 
 
 <h3>Reference</h3>
