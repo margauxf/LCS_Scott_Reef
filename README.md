@@ -6,12 +6,13 @@ Data repository for the manuscript submitted to Geophysical Research Letters.
 
 The observed drifter trajectories can be found at [AUS_Drifters_unshifted.mat].
 
-Data collected by:
-Margaux Filippi, margaux@mit.edu, Massachusetts Institute of Technology/Woods Hole Oceanographic Institution
-Thomas Peacock, tomp@mit.edu, Massachusetts Institute of Technology
-Ryan Lowe, ryan.lowe@uwa.edu.au, The University of Western Australia
-Greg Ivey, greg.ivey@uwa.edu.au, The University of Western Australia
-James Gilmour, j.gilmour@aims.gov.au, Australian Institute of Marine Science 
+Data collected by Margaux Filippi, margaux@mit.edu, Massachusetts Institute of Technology/Woods Hole Oceanographic Institution.
+
+Resources provided by:
+- Thomas Peacock, tomp@mit.edu, Massachusetts Institute of Technology
+- Ryan Lowe, ryan.lowe@uwa.edu.au, The University of Western Australia
+- Greg Ivey, greg.ivey@uwa.edu.au, The University of Western Australia
+- James Gilmour, j.gilmour@aims.gov.au, Australian Institute of Marine Science 
 
 The drifter trajectories were collected during an  Australian Institute of Marine Science cruise around Scott Reef, Western Australia, in October 2016. The drifters were released on October 2nd (first 9 drifters) and October 3rd (next 12 drifters). The dataset here has been cropped to the first two months. 
 
