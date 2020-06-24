@@ -1,6 +1,6 @@
 <h1> Dataset for the manuscript "Investigating transport in a tidally-driven coral atoll flow using Lagrangian Coherent Structures" </h1>
 
-Data repository for the manuscript submitted to Geophysical Research Letters.
+Data repository for the manuscript submitted to Limnology and Oceanography.
 
 <h2>Drifter data</h2>
 
